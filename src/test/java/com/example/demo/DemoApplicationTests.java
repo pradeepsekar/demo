@@ -8,7 +8,7 @@ class DemoApplicationTests {
 
 	@Test
 	void contextLoads() {
-		System.out.println("sample test");
+		System.out.println("sample test, should trigger a build....");
 	}
 
 }
